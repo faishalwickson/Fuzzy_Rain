@@ -1,2 +1,2 @@
 # Fuzzy_Rain
-Prediksi curah hujan berdasarkan suhu, kelembaban, dan kecepatan angin menggunakan fuzzy (skfuzzy)
+Rainfall prediction based on temperature, humidity, and wind speed using fuzzy system (The SKFuzzy library)
